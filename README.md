@@ -1,8 +1,9 @@
-# I Am Rich (Flutter)
-- Project: **Project #1 of Bootcamp.** 
-- IDE: **Android Studio** 
-- Task: **Creating a basic app with the Flutter SDK.**  
-- Language: **Dart**
+# I Am Rich (Clone)  
+- Project: **Project #1 of Bootcamp.**  
+- IDE: **Android Studio**  
+- SDK: **Flutter**  
+- Language: **Dart**  
+- Task: **To create a basic app with the Flutter SDK.**  
 
 ## Reference
   
