@@ -1,5 +1,9 @@
-# I Am Rich clone
+# I Am Rich (Flutter)
+- Project: **Project #1 of Bootcamp.** 
+- IDE: **Android Studio** 
+- Task: **Creating a basic app with the Flutter SDK.**  
+- Language: **Dart**
 
-This project is a starting point for a Flutter application, using the Dart programming language. 
-
-via ([The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/))
+## Reference
+  
+1. [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
